@@ -23,7 +23,7 @@ A web-based clone of the popular **Stick Hero** game. Built entirely using HTML5
 
 Play it live (host it on GitHub Pages or your own web server):
 
-> 📌 *Demo link goes here when deployed*
+> 📌 https://blankedwave.github.io/Stick-Hero/
 
 ## 🛠️ Technologies
 
